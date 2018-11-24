@@ -3,7 +3,8 @@ Android Library use to download any kind of file from internet, create by Rukund
 
 ## Add the following dependencies in your project
 
-### For Gladle:
+### For Gladle
+
 ```
 allprojects {
  repositories {
@@ -38,6 +39,7 @@ implementation 'com.github.rukundoeric:Pre-Downloader-Android-Master:1.1.1'
 ```
 
 ### And use these code
+
   ```ruby
   PreDownloader preDownloader=new PreDownloader(this);
     preDownloader.setDownloadUrl("Download Url");
