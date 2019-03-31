@@ -1,5 +1,5 @@
 # Pre-Downloader-Android-Master
-Android Library use to download any kind of file from internet, create by Rukundo Eric Prestein.
+Android Library use to download any kind of file from internet, created by Rukundo Eric Prestein.
 
 ## Add the following dependencies in your project
 
